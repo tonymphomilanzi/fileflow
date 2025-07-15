@@ -10,7 +10,7 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-18181b?style=for-the-badge&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer--Motion-000?style=for-the-badge&logo=framer&logoColor=white)
 ![Lucide Icons](https://img.shields.io/badge/-Lucide--React-111827?style=for-the-badge&logo=react&logoColor=white)
-![License](https://img.shields.io/github/license/yourusername/fileflow?style=for-the-badge)
+
 
 
 ---
