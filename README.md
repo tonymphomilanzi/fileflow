@@ -69,6 +69,7 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
     npm run dev
 
    **Inspiration**
+   
   Built with ❤️ to bring fast, private, and elegant media conversion to everyone — no tracking, no servers, no nonsense.
 
    “Don’t upload your life to convert a file.”
@@ -78,5 +79,5 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
    Developer & Maker
    Malawi
 
-📄 **License**
-This project is licensed under the MIT License — you're free to use and modify.
+  **License**
+  This project is licensed under the MIT License — you're free to use and modify.
