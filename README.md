@@ -2,13 +2,16 @@
 
 Modern, sleek & private in-browser media converter powered by FFmpeg.
 
-![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38bdf8?logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-5.0-646cff?logo=vite)
-![Zustand](https://img.shields.io/badge/Zustand-State--Management-6c47ff?logo=zustand)
-![ffmpeg.wasm](https://img.shields.io/badge/FFmpeg-WASM-success?logo=ffmpeg)
-![shadcn/ui](https://img.shields.io/badge/Shadcn-UI-lightgrey?logo=radixui)
-![License](https://img.shields.io/github/license/yourusername/fileflow)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![Vite](https://img.shields.io/badge/-Vite-1a1a1a?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Zustand](https://img.shields.io/badge/-Zustand-161b22?style=for-the-badge&logo=react&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg%20WASM-0b1e2d?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-18181b?style=for-the-badge&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer--Motion-000?style=for-the-badge&logo=framer&logoColor=white)
+![Lucide Icons](https://img.shields.io/badge/-Lucide--React-111827?style=for-the-badge&logo=react&logoColor=white)
+![License](https://img.shields.io/github/license/yourusername/fileflow?style=for-the-badge)
+
 
 ---
 
