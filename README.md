@@ -80,4 +80,8 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
    Malawi
 
   **License**
-  This project is licensed under the MIT License — you're free to use and modify.
+   FileFlow uses FFmpeg under the LGPL v2.1 license.
+   FFmpeg is a trademark of Fabrice Bellard and is licensed under LGPL v2.1.
+   This project does not modify FFmpeg itself and complies with the terms of the license.
+
+
