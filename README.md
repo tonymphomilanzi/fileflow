@@ -1,4 +1,4 @@
-# 🚀 FileFlow
+#  FileFlow
 
 ![HEADER](https://github.com/user-attachments/assets/fdb09b27-7015-4a32-a9cc-7ca8cac00841)
 
@@ -19,29 +19,29 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
 
 ---
 
-## 📦 What is FileFlow?
+##  What is FileFlow?
 
 **FileFlow** is a free, beautiful, and privacy-focused online media converter that works entirely in your browser. No file uploads, no server processing — everything is converted locally using `ffmpeg`.
 
 **Convert videos, audio, and images** to formats like:
 
-- 🎞️ Video: `mp4`, `webm`, `gif`
-- 🎧 Audio: `mp3`, `wav`
-- 🖼️ Image: `png`, `jpeg`, `webp`
+-  Video: `mp4`, `webm`, `gif`
+-  Audio: `mp3`, `wav`
+-  Image: `png`, `jpeg`, `webp`
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Drag & Drop or File Picker Upload
-- 🎚️ Choose output format & resolution
-- 🔧 Bitrate + advanced options (when applicable)
-- ⚙️ Powered by `ffmpeg.wasm` — full conversion in browser
-- 🔄 Real-time conversion progress with animations
-- 🧊 Glassmorphism dark UI (Tailwind + shadcn)
-- 📥 Download after conversion with history via `localStorage`
-- 📱 Mobile-friendly & fully responsive
-- 🧠 State management with `zustand`
+-  Drag & Drop or File Picker Upload
+-  Choose output format & resolution
+-  Bitrate + advanced options (when applicable)
+-  Powered by `ffmpeg.wasm` — full conversion in browser
+-  Real-time conversion progress with animations
+-  Glassmorphism dark UI (Tailwind + shadcn)
+-  Download after conversion with history via `localStorage`
+-  Mobile-friendly & fully responsive
+-  State management with `zustand`
 
 ---
 
@@ -59,7 +59,7 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 # 1. Clone the repository
 git clone https://github.com/tonymphomilanzi/fileflow.git
