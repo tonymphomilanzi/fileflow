@@ -59,5 +59,24 @@ Modern, sleek & private in-browser media converter powered by FFmpeg.
 
 1. **Clone the repository**
 
-git clone https://github.com/tonymphomilanzi/fileflow.git
-cd fileflow
+    git clone https://github.com/tonymphomilanzi/fileflow.git
+    cd fileflow
+ 
+2. **Install dependencies**
+    npm install
+
+3. **Start Server**
+    npm run dev
+
+   **Inspiration**
+  Built with ❤️ to bring fast, private, and elegant media conversion to everyone — no tracking, no servers, no nonsense.
+
+   “Don’t upload your life to convert a file.”
+
+  **Author**
+   Tony Milanzi
+   Developer & Maker
+   Malawi
+
+📄 **License**
+This project is licensed under the MIT License — you're free to use and modify.
